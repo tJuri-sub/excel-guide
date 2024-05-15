@@ -1,0 +1,38 @@
+*{
+    font-family: var(--inter);
+}
+
+.key-short{
+    background: var(--c2);
+    padding: 7% 0%;
+}
+
+table{
+    background-color: var(--c3);
+    color: var(--c1);
+    margin: auto;
+}
+
+h1{
+    font-weight: 500;
+    font-size: 2rem;
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+}
+
+th,td{
+    border: 1px solid var(--c1);
+    padding: 1rem;
+}
+
+.resize{
+    width: 60%;
+}
+
+img{
+    display: flex;
+    margin: auto;
+}
